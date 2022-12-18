@@ -2,7 +2,7 @@
 
 
 - A simple business website.
-- In this project there is no JavaScript codes, mostly HTML 5 and CSS usage.
+- In this project there is no JavaScript codes, only HTML5 and CSS are used.
 
 #### HTML code
 
