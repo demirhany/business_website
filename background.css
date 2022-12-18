@@ -1,0 +1,15 @@
+/* .main_background {
+    background-color: rgb(139, 145, 172);
+} */
+body{
+    /* background-image: url("./images/20506759.jpg");
+    background-position-x: 1280px;
+    background-position-y: 720px; 
+    background-size: cover;  */
+    /* background-repeat: no-repeat; */
+    background-color: rgb(19, 19, 19);
+    /* background-image: url("./images/IMG_20220514_194550.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
+}

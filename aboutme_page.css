@@ -1,0 +1,50 @@
+.aboutme{
+    position: relative;
+    width: 98.77vw;
+    height: 50vh;
+    top: 45vh;
+}
+.aboutme_background{
+    width: 98.77vw;
+    height: 50vh;
+    /* background-image: url("./images/2373577.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; */
+    filter: brightness(40%);
+    opacity: 0.9;
+    background-color: rgb(62, 118, 158);
+}
+.aboutme_header{
+    position: relative;
+    width: 40vw;
+    height: 10vh;
+    top: -45vh;
+    left: 3vw;
+    color: rgb(255, 255, 255);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}
+.aboutme-para1{
+    position: relative;
+    width: 65vw;
+    height: 30vh;
+    top: -42vh;
+    left: 3vw;
+    color: rgb(240, 240, 240);
+    font-size: 1.05em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.aboutme-para2{
+    position: relative;
+    width: 65vw;
+    height: 30vh;
+    top: -55vh;
+    left: 3vw;
+    color: rgb(240, 240, 240);
+    font-size: 1.05em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.aboutme-bolder-word{
+    font-weight: 600;
+}

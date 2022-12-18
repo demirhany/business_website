@@ -1,0 +1,36 @@
+.social_media_container{
+    z-index: 98;
+    width: 12vw;
+    height: 10vh;
+    /* border: 2px solid white; */
+    /* background-color:  rgb(248, 249, 255); */
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: rgb(192, 192, 192);
+    margin: 10px;
+    left: 84%;
+    top: 0%;
+    /* border-radius: 20px; */
+    padding: 8px;
+    transition: 0.3s;
+}
+
+.facebook{
+    position: relative;
+    color: rgb(192, 192, 192);
+}
+.instagram{
+    position: relative;
+    color: rgb(192, 192, 192);
+}
+.twitter{
+    position: relative;
+    color: rgb(192, 192, 192);
+}
+.socialmedia:hover{
+    color: #f8f8f8;
+    font-size: 2.1rem;
+    transition: 0.3s;
+}
